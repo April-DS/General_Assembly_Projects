@@ -6,20 +6,20 @@
 The College Board released a new version of the Standardized Tests (SAT). The New SAT made its debut in March 2016 and impacts students in the class of 2017 or younger. We aim to analyze the data about ACT and SAT scores and participation rate in 2017 and 2018 years, the major trends and difference.
 
 ### Contents:
-- [2017 Data Import & Cleaning]
-- [2018 Data Import and Cleaning]
-- [Exploratory Data Analysis]
-- [Data Visualization]
-- [Descriptive and Inferential Statistics]
-- [Colorado, Illinois and North Carolina participation trends]
-- [Conclusions and Recommendations]
+- 2017 Data Import & Cleaning
+- 2018 Data Import and Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Descriptive and Inferential Statistics
+- Colorado, Illinois and North Carolina participation trends
+- Conclusions and Recommendations
 
 ## Data files:
 
-- act_2017.csv
-- act_2018.csv
-- sat_2017.csv
-- sat_2018.csv
+- [act_2017.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_1_SAT_ACT/data/act_2017.csv)
+- [act_2018.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_1_SAT_ACT/data/act_2018.csv)
+- [sat_2017.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_1_SAT_ACT/data/sat_2017.csv)
+- [sat_2018.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_1_SAT_ACT/data/sat_2018.csv)
 
 ### Additional data files:
 
