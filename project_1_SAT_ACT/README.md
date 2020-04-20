@@ -17,7 +17,7 @@ The College Board released a new version of the Standardized Tests (SAT). The Ne
 ## Data files:
 
 - [act_2017.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_1_SAT_ACT/data/act_2017.csv)
-- [act_2018.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_1_SAT_ACT/data/act_2018.csv)
+- [act_2018.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_1_SAT_ACT/data/act_2018_updated.csv)
 - [sat_2017.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_1_SAT_ACT/data/sat_2017.csv)
 - [sat_2018.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_1_SAT_ACT/data/sat_2018.csv)
 
