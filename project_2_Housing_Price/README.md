@@ -60,7 +60,7 @@ The model is essential for all market stakeholders: house owners, landlords, rea
 
 
 ## Data Sets (CSV files):
- - [train]https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_2_Housing_Price/datasets/train.csv
+ - [train](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_2_Housing_Price/datasets/train.csv)
  - [test](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_2_Housing_Price/datasets/test.csv)
  - [sample_submission](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_2_Housing_Price/datasets/sample_sub_reg.csv)
  
