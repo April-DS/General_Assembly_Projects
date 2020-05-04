@@ -14,6 +14,7 @@ Using platforms such as Coursera and EdX.
 Retain partnership with Khan Academy.
 Establishing new scholarships for students who can creatively share their positive experience of - passing the test on social networks.
 Cost reduction or cancellation for low-income students.
+
 Python | Jupyter notebook | pandas | numpy | matplotlib | seaborn
 _____________________________________________________________________________
 _____________________________________________________________________________
@@ -25,6 +26,7 @@ _____________________________________________________________________________
 
 A real estate market Dataset from Kaggle was used to identify and study the features which can contribute the most into the price (in dollars) prediction of property in Ames, Iowa, USA. The Dataset comprises sales from 2006 to 2010.
 The Regression models (Linear Regression, Lasso Regression and Ridge Regression) were used for price prediction based on features from 
+
 Python | Jupyter notebook | pandas | PolynomialFeatures | sklearn | LinearRegression
 _____________________________________________________________________________
 _____________________________________________________________________________
