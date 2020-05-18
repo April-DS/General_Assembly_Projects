@@ -31,7 +31,7 @@ Python | Jupyter notebook | pandas | PolynomialFeatures | sklearn | LinearRegres
 _____________________________________________________________________________
 _____________________________________________________________________________
 
-## Project 3 "Reddit APIs & Classification"
+## Project 3 "Reddit APIs & Classification" 
  - Using Reddit's API, collect posts from two subreddits (Psychology and Astrology).
  - Use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
 
