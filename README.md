@@ -1,7 +1,7 @@
 # Projects at General Assembly
 #### Data Science Immersive course
 
-## Project 1 "SAT & ACT Analysis"                               20.04.2020
+## Project 1 "SAT & ACT Analysis"
  - Standardized Testing
  - Statistical Summaries
  - Exploratory Data Analysis
@@ -19,14 +19,30 @@ Python | Jupyter notebook | pandas | numpy | matplotlib | seaborn
 _____________________________________________________________________________
 _____________________________________________________________________________
 
-## Project 2 "Ames Housing Data"                                 04.05.2020
+## Project 2 "Ames Housing Data"
  - Creating and iteratively refining a regression model
  - Using Kaggle to practice the modelling process
  - Providing business insights through reporting and presentation.
 
 A real estate market Dataset from Kaggle was used to identify and study the features which can contribute the most into the price (in dollars) prediction of property in Ames, Iowa, USA. The Dataset comprises sales from 2006 to 2010.
-The Regression models (Linear Regression, Lasso Regression and Ridge Regression) were used for price prediction based on features from 
+The Regression models (Linear Regression, Lasso Regression and Ridge Regression) were used for price prediction based on features.
 
 Python | Jupyter notebook | pandas | PolynomialFeatures | sklearn | LinearRegression
+_____________________________________________________________________________
+_____________________________________________________________________________
+
+## Project 3 "Reddit APIs & Classification" 
+ - Using Reddit's API, collect posts from two subreddits (Psychology and Astrology).
+ - Use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
+
+Modern Astrology uses a psychological approach and language which can be misleading for people.
+
+The resulting model can be useful for:
+layman people who cannot decide if the information comes from psychological science or astrological pseudoscience.
+Moderators of r/psychology/ and r/astrology/ subreddits to save time from manual sorting of these two classes.
+
+LogisticRegression is the best model with TfidfVectorizer for the problem. Test accuracy of 94.5 %
+
+Python | Scikit-learn | Natural language processing (NLP) | PolynomialFeatures | MultinomialNB | TfidfVectorizer
 _____________________________________________________________________________
 _____________________________________________________________________________
