@@ -81,7 +81,7 @@ Models are evaluated by **Classification accuracy, precision, recall and f1 scor
 
 [F1](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html) score is weighted average of the precision and recall. F1 score reaches its best value at 1 and worst score at 0.
 
-![$$\text{Recall = Sensitivity}={\frac{2 * Precision * Recall}{Precision + Recall}}$$](https://render.githubusercontent.com/render/math?math=%5Ctext%7BRecall%20%3D%20Sensitivity%7D%3D%7B%5Cfrac%7B2%20%2A%20Precision%20%2A%20Recall%7D%7BPrecision%20%2B%20Recall%7D%7D&mode=display)
+![$$\text{F1}={\frac{2 * Precision * Recall}{Precision + Recall}}$$](https://render.githubusercontent.com/render/math?math=%5Ctext%7BRecall%20%3D%20Sensitivity%7D%3D%7B%5Cfrac%7B2%20%2A%20Precision%20%2A%20Recall%7D%7BPrecision%20%2B%20Recall%7D%7D&mode=display)
 
 ### Model description:
 
