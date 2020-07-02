@@ -3,6 +3,8 @@
 
 # Reddit APIs & Classification
 
+`Python | Scikit-learn | Natural language processing (NLP) | PolynomialFeatures | MultinomialNB | TfidfVectorizer`
+
 ## Content:
 
 1. [Problem statement](https://render.githubusercontent.com/view/ipynb?commit=5dd4a4f7ca50aab0826b54c861371d6990a53591&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f417072696c2d44532f47656e6572616c5f417373656d626c795f50726f6a656374732f356464346134663763613530616162303832366235346338363133373164363939306135333539312f70726f6a6563745f335f5265646469742f5265646469745f636c617373696669636174696f6e2e6970796e62&nwo=April-DS%2FGeneral_Assembly_Projects&path=project_3_Reddit%2FReddit_classification.ipynb&repository_id=256115187&repository_type=Repository#Problem-statement)
