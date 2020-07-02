@@ -1,10 +1,7 @@
 # Project 2 - Ames Housing Data
 _____________________________
 
-1. datasets - folder with csv files
-2. Ames_Housing_Regression_Kaggel.ipynb - Linear Regression modeling for Kaggle submission (many features (~300))
-3. Ames_Housing_Regression_Submission.ipynb - Linear Regression modeling for Kaggle submission (few features (~30))
-
+`Python | Jupyter notebook | pandas | PolynomialFeatures | sklearn | LinearRegression`
 ___________________________
 
 Contents:
@@ -63,6 +60,10 @@ The model is essential for all market stakeholders: house owners, landlords, rea
  - [train](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_2_Housing_Price/datasets/train.csv)
  - [test](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_2_Housing_Price/datasets/test.csv)
  - [sample_submission](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_2_Housing_Price/datasets/sample_sub_reg.csv)
+ 
+1. datasets - folder with csv files
+2. Ames_Housing_Regression_Kaggel.ipynb - Linear Regression modeling for Kaggle submission (many features (~300))
+3. Ames_Housing_Regression_Submission.ipynb - Linear Regression modeling for Kaggle submission (few features (~30))
  
 ## Data [Dictionary](https://github.com/April-DS/General_Assembly_Projects/blob/master/project_2_Housing_Price/datasets/README.md)
 ______________________________________________
