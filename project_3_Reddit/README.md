@@ -3,10 +3,6 @@
 
 # Reddit APIs & Classification
 
-Files in data:
-- [psy_astro.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_3_Reddit/data/psy_astro.csv) - Scraped data from [reddit.com](https://www.reddit.com/) subredditsL psychology, astrology
-- [clean_subreddits.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_3_Reddit/data/clean_subreddits.csv) - Cleaned dataset with dropped duplicates
-
 ## Content:
 
 1. [Problem statement](https://render.githubusercontent.com/view/ipynb?commit=5dd4a4f7ca50aab0826b54c861371d6990a53591&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f417072696c2d44532f47656e6572616c5f417373656d626c795f50726f6a656374732f356464346134663763613530616162303832366235346338363133373164363939306135333539312f70726f6a6563745f335f5265646469742f5265646469745f636c617373696669636174696f6e2e6970796e62&nwo=April-DS%2FGeneral_Assembly_Projects&path=project_3_Reddit%2FReddit_classification.ipynb&repository_id=256115187&repository_type=Repository#Problem-statement)
@@ -22,17 +18,6 @@ Files in data:
 11. [Word inspection](https://render.githubusercontent.com/view/ipynb?commit=5dd4a4f7ca50aab0826b54c861371d6990a53591&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f417072696c2d44532f47656e6572616c5f417373656d626c795f50726f6a656374732f356464346134663763613530616162303832366235346338363133373164363939306135333539312f70726f6a6563745f335f5265646469742f5265646469745f636c617373696669636174696f6e2e6970796e62&nwo=April-DS%2FGeneral_Assembly_Projects&path=project_3_Reddit%2FReddit_classification.ipynb&repository_id=256115187&repository_type=Repository#Word-inspection)
 12. [Misclassification analisys](https://render.githubusercontent.com/view/ipynb?commit=5dd4a4f7ca50aab0826b54c861371d6990a53591&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f417072696c2d44532f47656e6572616c5f417373656d626c795f50726f6a656374732f356464346134663763613530616162303832366235346338363133373164363939306135333539312f70726f6a6563745f335f5265646469742f5265646469745f636c617373696669636174696f6e2e6970796e62&nwo=April-DS%2FGeneral_Assembly_Projects&path=project_3_Reddit%2FReddit_classification.ipynb&repository_id=256115187&repository_type=Repository#Misclassification-analisys)
 13. [Further research suggestions](https://render.githubusercontent.com/view/ipynb?commit=5dd4a4f7ca50aab0826b54c861371d6990a53591&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f417072696c2d44532f47656e6572616c5f417373656d626c795f50726f6a656374732f356464346134663763613530616162303832366235346338363133373164363939306135333539312f70726f6a6563745f335f5265646469742f5265646469745f636c617373696669636174696f6e2e6970796e62&nwo=April-DS%2FGeneral_Assembly_Projects&path=project_3_Reddit%2FReddit_classification.ipynb&repository_id=256115187&repository_type=Repository#Further-research-suggestions)
-
-## Data Dictionary
-
-| Feature name | Type           | Description                                |
-| :----------- | :------------- | :----------------------------------------- |
-| text         | str            | Title + self text of post                  |
-| num_comments | int            | Number of comments under a post            |
-| ups          | int            | Number of ups of post                      |
-| date         | datetime64[ns] | Date of publication of post                |
-| subreddit    | str            | Name of subreddit (Psychology / Astrology) |
-
 
 ## Problem statement
 
@@ -62,6 +47,21 @@ Other people think that psychology is science while astrology is a pseudoscience
 - Do psychology and astrology have a specific vocabulary?
 - Does the activity of the community members in subreddits differ?
 - Do psychological posts contain scientific words?
+
+Files in data:
+- [psy_astro.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_3_Reddit/data/psy_astro.csv) - Scraped data from [reddit.com](https://www.reddit.com/) subredditsL psychology, astrology
+- [clean_subreddits.csv](https://raw.githubusercontent.com/April-DS/General_Assembly_Projects/master/project_3_Reddit/data/clean_subreddits.csv) - Cleaned dataset with dropped duplicates
+
+## Data Dictionary
+
+| Feature name | Type           | Description                                |
+| :----------- | :------------- | :----------------------------------------- |
+| text         | str            | Title + self text of post                  |
+| num_comments | int            | Number of comments under a post            |
+| ups          | int            | Number of ups of post                      |
+| date         | datetime64[ns] | Date of publication of post                |
+| subreddit    | str            | Name of subreddit (Psychology / Astrology) |
+
 
 ### Evaluation of a model
 
